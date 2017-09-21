@@ -2,7 +2,7 @@
   "name": "meaning",
   "version": "1.0.0",
   "description": "内涵段子",
-  "author": "zhixiaoqiang <798052735@qq.com>",
+  "author": "yulinkuan <583132486@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
